@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Halaman Utama -->
+  <url>
+    <loc>https://amazingracejeep.com/</loc>
+    <lastmod>2026-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1533130061792-64b345e4a833?w=1200&amp;q=80</image:loc>
+      <image:title>Amazing Race Jeep - Paket Outbound Terbaik Yogyakarta</image:title>
+    </image:image>
+  </url>
+
+  <!-- Halaman Tentang Kami -->
+  <url>
+    <loc>https://amazingracejeep.com/about.html</loc>
+    <lastmod>2026-02-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&amp;q=80</image:loc>
+      <image:title>Tentang Amazing Race Jeep - Tim Profesional Outbound</image:title>
+    </image:image>
+  </url>
+
+  <!-- Halaman Blog -->
+  <url>
+    <loc>https://amazingracejeep.com/blog.html</loc>
+    <lastmod>2026-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog Detail 1 -->
+  <url>
+    <loc>https://amazingracejeep.com/blog-detail-1.html</loc>
+    <lastmod>2026-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1533130061792-64b345e4a833?w=1200&amp;q=80</image:loc>
+      <image:title>7 Tips Memilih Paket Outbound Terbaik</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 2 -->
+  <url>
+    <loc>https://amazingracejeep.com/blog-detail-2.html</loc>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&amp;q=80</image:loc>
+      <image:title>Sensasi Off-Road: Mengapa Jeep Jadi Pilihan Utama Petualangan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 3 -->
+  <url>
+    <loc>https://amazingracejeep.com/blog-detail-3.html</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&amp;q=80</image:loc>
+      <image:title>Team Building Efektif dengan Amazing Race</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 4 -->
+  <url>
+    <loc>https://amazingracejeep.com/blog-detail-4.html</loc>
+    <lastmod>2025-12-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1551632811-561732d1e306?w=1200&amp;q=80</image:loc>
+      <image:title>5 Destinasi Wisata Alam Terbaik untuk Outbound Jeep di Yogyakarta</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 5 -->
+  <url>
+    <loc>https://amazingracejeep.com/blog-detail-5.html</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=1200&amp;q=80</image:loc>
+      <image:title>Checklist Lengkap Persiapan Sebelum Ikut Outbound Jeep</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 6 -->
+  <url>
+    <loc>https://amazingracejeep.com/blog-detail-6.html</loc>
+    <lastmod>2025-12-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&amp;q=80</image:loc>
+      <image:title>10 Manfaat Outbound yang Terbukti Meningkatkan Produktivitas Perusahaan</image:title>
+    </image:image>
+  </url>
+
+</urlset>
